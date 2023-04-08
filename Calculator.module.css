@@ -1,0 +1,17 @@
+.app{
+    margin:0;
+    padding: 20px;
+    border:2px solid red;
+    text-align: center;
+}
+.table{
+    margin: auto;
+   
+    padding:10px;
+    justify-content: center;
+    text-align: center;
+    border:2px solid rgb(0, 0, 0);
+}
+.result{
+    text-align: end;
+}
